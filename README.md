@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm QualityPlus</h1>
-<h3 align="center">Java Software Engineer from Argentina</h3>
+<h1 align="center">QualityPlus</h1>
+<h3 align="center">Java Open Source Organization from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Qu4lityPlus&label=Profile%20views&color=0e75b6&style=flat" alt="Qu4lityPlus" /> </p>
+
 - ⛏ Only organization projects here, personal projects at [r3back](https://github.com/r3back)
 
-- 👨‍💻 Currently Full-Time employed: [GlobalLogic Latinoamerica](https://www.globallogic.com)
-
-- 🎓 Software Engineering (UNAJ, 2020 - 2025)
-
-- ⚡ Check my portfolio! [www.qualityplus.dev](www.qualityplus.dev)
+- ⚡ Check my projects! [www.qualityplus.dev](www.qualityplus.dev)
 
 - 📫 Email Contact: **qualityplus.dev@gmail.com**
 
